@@ -168,7 +168,8 @@ PAGE_TEMPLATE = """
   </div>
 
   <div class="footer">
-    <code>DEBUG={{ debug|lower }}</code> / <code>PORT={{ port }}</code>
+  <!--  <code>DEBUG={{ debug|lower }}</code> / <code>PORT={{ port }}</code> -->
+    <p> &copy;2026/2/27 </p>
   </div>
 </body>
 </html>
